@@ -4,3 +4,5 @@ openai>=1.0.0
 python-dotenv
 PyMuPDF
 python-multipart
+requests
+beautifulsoup4
